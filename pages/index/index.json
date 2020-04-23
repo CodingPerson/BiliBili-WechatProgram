@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "小张复刻版某站",
+  "usingComponents": {
+    "MyTitle": "../../components/MyTitle/MyTitle"
+  }
+}
